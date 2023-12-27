@@ -29,3 +29,11 @@ for result in results:
     print("\n")
     print(result[1])
     print(result[0].page_content)
+
+results = db.similarity_search(
+    "What is an interesting fact about the English language?", k=1
+)
+
+for result in results:
+    print("\n")
+    print(result.page_content)
