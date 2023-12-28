@@ -1,4 +1,4 @@
-# LangChain Chat Application Repository
+# LangChain Text File Chat
 
 ## Overview
 
