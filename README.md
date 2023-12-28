@@ -28,7 +28,9 @@ This repository showcases a Python-based chat application using LangChain, a lib
   - `facts.txt`: Text file serving as the primary data source for document processing.
   - `main.py`: Script for initializing and querying the Chroma database.
   - `prompt.py`: Script for executing the question-answering chain.
+  - `redundant_filter_retriever.py`: Script for filtering redundant information from retrieved results.
 - `main.py`: Main script for running the chat application.
+
 
 ## Usage Instructions
 
